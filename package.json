@@ -1,0 +1,25 @@
+{
+  "name": "bot_cc",
+  "version": "1.0.0",
+  "description": "projeto voltado para criar um bot para discord",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopcs80/BOT_CC.git"
+  },
+  "author": "joaopcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopcs80/BOT_CC/issues"
+  },
+  "homepage": "https://github.com/joaopcs80/BOT_CC#readme",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "idna": "^0.0.1",
+    "node-fetch": "^2.7.0"
+  }
+}
